@@ -1,0 +1,40 @@
+INFO:root:Epoch 0/20 Done, Total Loss: 0.31568512320518494
+INFO:root:Total Time Elapsed: 1976.0878412 seconds
+INFO:root:Epoch 1/20 Done, Total Loss: 0.23544766008853912
+INFO:root:Total Time Elapsed: 1794.2074992 seconds
+INFO:root:Epoch 2/20 Done, Total Loss: 0.20294907689094543
+INFO:root:Total Time Elapsed: 1793.0465187000004 seconds
+INFO:root:Epoch 3/20 Done, Total Loss: 0.1635274887084961
+INFO:root:Total Time Elapsed: 1794.6116464999996 seconds
+INFO:root:Epoch 4/20 Done, Total Loss: 0.14796662330627441
+INFO:root:Total Time Elapsed: 1793.6491031000005 seconds
+INFO:root:Epoch 5/20 Done, Total Loss: 0.13597024977207184
+INFO:root:Total Time Elapsed: 1793.1407869000013 seconds
+INFO:root:Epoch 6/20 Done, Total Loss: 0.12068089842796326
+INFO:root:Total Time Elapsed: 1792.0387945000002 seconds
+INFO:root:Epoch 7/20 Done, Total Loss: 0.11479920893907547
+INFO:root:Total Time Elapsed: 1791.7178108999997 seconds
+INFO:root:Epoch 8/20 Done, Total Loss: 0.10997465997934341
+INFO:root:Total Time Elapsed: 1791.7395628999984 seconds
+INFO:root:Epoch 9/20 Done, Total Loss: 0.10336366295814514
+INFO:root:Total Time Elapsed: 1792.7766054000022 seconds
+INFO:root:Epoch 10/20 Done, Total Loss: 0.10087040811777115
+INFO:root:Total Time Elapsed: 1792.255101499999 seconds
+INFO:root:Epoch 11/20 Done, Total Loss: 0.09866756200790405
+INFO:root:Total Time Elapsed: 1792.4769502000017 seconds
+INFO:root:Epoch 12/20 Done, Total Loss: 0.09567290544509888
+INFO:root:Total Time Elapsed: 1793.4816300999992 seconds
+INFO:root:Epoch 13/20 Done, Total Loss: 0.09440238028764725
+INFO:root:Total Time Elapsed: 1792.7195642000006 seconds
+INFO:root:Epoch 14/20 Done, Total Loss: 0.0935063287615776
+INFO:root:Total Time Elapsed: 1792.6810627000013 seconds
+INFO:root:Epoch 15/20 Done, Total Loss: 0.09205890446901321
+INFO:root:Total Time Elapsed: 1793.2266434000012 seconds
+INFO:root:Epoch 16/20 Done, Total Loss: 0.09132184088230133
+INFO:root:Total Time Elapsed: 1793.515387899999 seconds
+INFO:root:Epoch 17/20 Done, Total Loss: 0.09096599370241165
+INFO:root:Total Time Elapsed: 1793.3175028000005 seconds
+INFO:root:Epoch 18/20 Done, Total Loss: 0.09025577455759048
+INFO:root:Total Time Elapsed: 1792.680435000002 seconds
+INFO:root:Epoch 19/20 Done, Total Loss: 0.08996743708848953
+INFO:root:Total Time Elapsed: 1793.3636286000037 seconds
