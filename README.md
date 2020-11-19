@@ -9,7 +9,7 @@
 * Parameters are not optimized.
 * Batch size selected as 1 due to hardware limitations.
 
-
+Aqua Box: GroudTruth, Red Box: Predictions
 ![Aqua GroudTruths, Red Predictions](https://github.com/dpatar/finetuning_RCNN/blob/main/raw/sample.gif)
 
-Aqua GroudTruths, Red Predictions
+
